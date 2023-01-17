@@ -38,7 +38,7 @@ p {
 }
 
 .card img {
-    height: 14rem;
+    height: 15rem;
     border-radius: 8px;
 }
 .card {
@@ -46,11 +46,11 @@ p {
     flex-direction: column;
     text-align: center;
     align-items: center;
-    padding: 1rem;
+    padding: 0.8rem;
     margin: 1rem;
-    max-width: 250px;
+    max-width: 15rem;
     background-color: var(--White);
-    border-radius: 10px;
+    border-radius: 16px;
 }
 .card h3 {
     font-weight: 700;
